@@ -1,5 +1,5 @@
+/* eslint-disable prettier/prettier */
 import { Injectable } from "@nestjs/common";
-import { ConfigService } from "@nestjs/config";
 import { TypeOrmModuleOptions, TypeOrmOptionsFactory } from "@nestjs/typeorm";
 
 @Injectable()

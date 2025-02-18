@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { forwardRef, Module } from '@nestjs/common';
 import { Bcrypt } from './bcrypt/bcrypt';
 import { UsuarioModule } from '../usuario/usuario.module';
